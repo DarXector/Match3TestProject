@@ -1,4 +1,7 @@
 Match3 Test Project
 =================
 
-A small Match3 Game.
+A small Stage3D Match3 Game.
+
+Made with Starling:
+http://gamua.com/starling/
