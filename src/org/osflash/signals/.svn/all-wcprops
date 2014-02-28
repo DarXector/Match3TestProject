@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals
+END
+IDeluxeSignal.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals/IDeluxeSignal.as
+END
+Signal.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals/Signal.as
+END
+IDispatcher.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals/IDispatcher.as
+END
+DeluxeSignal.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals/DeluxeSignal.as
+END
+ISignal.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sales_integration/!svn/ver/14627/trunk/perfectroom.craveonline.com/src/org/osflash/signals/ISignal.as
+END

@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="sheet.png">
+	<SubTexture name="ball_1" x="702" y="208" width="32" height="42"/>
+	<SubTexture name="ball_2" x="702" y="340" width="32" height="42"/>
+	<SubTexture name="ball_3" x="702" y="296" width="32" height="42"/>
+	<SubTexture name="ball_4" x="702" y="252" width="32" height="42"/>
+	<SubTexture name="ball_5" x="702" y="384" width="32" height="42"/>
+	<SubTexture name="bg" x="0" y="0" width="700" height="500"/>
+	<SubTexture name="play_out" x="702" y="104" width="208" height="102"/>
+	<SubTexture name="play_over" x="702" y="0" width="208" height="102"/>
+</TextureAtlas>
